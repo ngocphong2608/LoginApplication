@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ttphong\AndroidStudioProjects\LoginApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\libs\internal_impl-24.0.0-alpha2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="C:\Users\ttphong\AndroidStudioProjects\LoginApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0-alpha2_8356fb5a933a0770ab7b345c2ba430bb6dc13a67\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ttphong\AndroidStudioProjects\LoginApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="df7f6513d6e2aaa302bbac654807c6129b517090">
+        <dex dex="C:\Users\ttphong\AndroidStudioProjects\LoginApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0-alpha2_164610e9f79bd2c6fefd875d2cd6ec062921ee25\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ttphong\AndroidStudioProjects\LoginApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5d17e7da4c0675f391000d9767daf1700abdba5c">
+        <dex dex="C:\Users\ttphong\AndroidStudioProjects\LoginApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_35750018d07632532641463b887f60eba7be8835\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ttphong\AndroidStudioProjects\LoginApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="886a497319a8e8f5ec0e84a54b15ca09aac52013">
+        <dex dex="C:\Users\ttphong\AndroidStudioProjects\LoginApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_afe652c1c437fa3a70f3bb6290cd3f092c29dea7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ttphong\AndroidStudioProjects\LoginApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="C:\Users\ttphong\AndroidStudioProjects\LoginApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0-alpha2_20e02f6aa6e073d0826fc379f9878b2a7349afad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ttphong\AndroidStudioProjects\LoginApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="661a632c3b434991d6364690cbe0f786371101cc">
+        <dex dex="C:\Users\ttphong\AndroidStudioProjects\LoginApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0-alpha2_6e1e93a6eceef186ace0d785f207421d34bd8c22\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ttphong\AndroidStudioProjects\LoginApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="bf5aa3b026d5b5fd9f4ab5e8cf13499b9e016dfb">
+        <dex dex="C:\Users\ttphong\AndroidStudioProjects\LoginApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0-alpha2_468814442ddbda4b44821f0b3c24aa464433b505\classes.dex" />
+    </item>
+    <item
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha2\support-annotations-24.0.0-alpha2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="C:\Users\ttphong\AndroidStudioProjects\LoginApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0-alpha2_d10c410222c118d96b4adc67e887d21f1e04824b\classes.dex" />
+    </item>
+
+</items>
